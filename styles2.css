@@ -1,0 +1,15 @@
+* {
+    padding:0;
+    box-sizing: border-box;
+}
+form {
+    background-color: rgba(246,149,178, 0.5);
+    max-width: 25%;
+    max-height: 25%;
+    padding: 100px;
+    vertical-align: middle;
+    margin: auto;
+}
+input {
+    max-width: fit-content;
+}
